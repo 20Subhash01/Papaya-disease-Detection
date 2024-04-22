@@ -1,0 +1,12 @@
+.h-99 {
+    height: 720px;
+}
+
+.card-scroll {
+    -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.card-scroll::-webkit-scrollbar {
+    display: none;
+}
